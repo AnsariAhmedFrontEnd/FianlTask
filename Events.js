@@ -16,6 +16,7 @@ function mouseoverGreen(event) {
     body.style.background = 'green';
 }
 
+
 black.addEventListener('mouseout',mouseoutBlack);
 function mouseoutBlack(event) {
     event.preventDefault();
